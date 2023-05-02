@@ -1,0 +1,8 @@
+name = "github-stats"
+main = "src/index.ts"
+compatibility_date = "2023-05-01"
+node_compat = true
+
+[vars]
+GITHUB_PERSONAL_ACCESS_TOKEN = "<your token here>"
+GITHUB_USERNAME = "<your user name here>"
